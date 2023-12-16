@@ -1,0 +1,23 @@
+body{
+    background-image: url(wallpaperflare.com_wallpaper.jpg);
+    color:rgb(238, 238, 238);
+}
+.quote{
+    text-align: center;
+    position: relative;
+    top: 120px;
+}
+.quote h1{
+    font-size: 4rem;
+    font-weight: 800;
+}
+.quote p{
+    font-size: 1.7rem;
+}
+.quote button{
+    font-size: 2rem;
+    padding: 0.8rem;
+    background: rgb(2,0,36);
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(27,163,199,0.9836309523809523) 100%);
+    color:rgb(98, 230, 197);
+}
